@@ -238,3 +238,6 @@ This repository serves as the official landing page for Alien Shooter 2. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Alien Shooter 2 today!**
+
+---
+**Last updated:** 2026-09-07 06:57:28 UTC
